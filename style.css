@@ -96,6 +96,9 @@
 img {
   width: 100%;
 }
+img#p{
+  height: 100%;
+}
 iframe{
   width: 100%;
 }
