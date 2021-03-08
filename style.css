@@ -58,6 +58,7 @@
     text-align: center;
     background: #ddd;
     margin-top: 20px;
+    z-index: 999;
   }
   
   @media screen and (max-width: 800px) {
@@ -91,3 +92,4 @@
   input[type=submit]:hover {
     background-color: rgb(53, 65, 117);
   }
+
