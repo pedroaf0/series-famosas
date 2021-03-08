@@ -93,8 +93,8 @@
     background-color: rgb(53, 65, 117);
   }
 
-img {
-  width: 100%;
+img.post {
+  width: 80%;
 }
 img#p{
   height: 100%;
